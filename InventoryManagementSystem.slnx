@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="InventoryManagementSystem/InventoryManagementSystem.vcxproj" Id="79bebcea-f75a-4484-9b86-119e592423cb" />
+</Solution>
